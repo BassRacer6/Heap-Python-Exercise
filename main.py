@@ -24,7 +24,7 @@ def main():
     max_heap = create_max_heap()
     
     while True:
-        print("\nMenu do Max Heap:")
+        print("\nEscolha uma opção:")
         print("1. Inserir no Max Heap")
         print("2. Remover do Max Heap")
         print("3. Consultar topo do Max Heap")
